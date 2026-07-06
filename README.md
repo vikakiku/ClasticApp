@@ -167,22 +167,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-# 📸 Screenshots
-
-> Screenshots will be added soon.
-
-Suggested screenshots:
-
-- Login
-- Homepage
-- Plastic Classification
-- Pickup Scheduling
-- Drop-off Scheduling
-- Reward Dashboard
-- Admin Dashboard
-
----
-
 # 📂 Folder Structure
 
 ```
